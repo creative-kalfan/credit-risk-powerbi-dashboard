@@ -117,6 +117,20 @@ This dashboard enables:
 - Data-driven decision-making for financial operations
 
 ---
+# Repository Structure
+
+```text
+credit-risk-powerbi-dashboard/
+│
+├── README.md
+├── Credit_Risk_Dashboard.pbix
+├── Cleaned_Credit_Risk_data.csv
+│
+├── screenshots/
+│   ├── executive_overview.png
+│   └── risk_segmentation.png
+
+```
 
 
 # Future Improvements
