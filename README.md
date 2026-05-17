@@ -105,10 +105,14 @@ This dashboard enables:
 # Screenshots
 
 ## Executive Risk Overview
-(Add Page 1 Screenshot Here)
+
+
+![Executive Dashboard](page1.png)
 
 ## Customer Risk Segmentation
-(Add Page 2 Screenshot Here)
+
+
+![Risk Segmentation Dashboard](page2.png)
 
 ---
 
