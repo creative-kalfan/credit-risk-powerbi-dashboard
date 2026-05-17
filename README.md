@@ -107,12 +107,12 @@ This dashboard enables:
 ## Executive Risk Overview
 
 
-![Executive Dashboard](page1.png)
+![Executive Dashboard](screenshots/executive_overview.png)
 
 ## Customer Risk Segmentation
 
 
-![Risk Segmentation Dashboard](page2.png)
+![Risk Segmentation Dashboard](screenshots/risk_segmentation.png)
 
 ---
 
