@@ -1,5 +1,21 @@
 # Credit Risk & Delinquency Analytics Dashboard
 
+
+# Screenshots
+
+## Executive Risk Overview
+
+
+![Executive Dashboard](screenshots/executive_overview.png)
+
+## Customer Risk Segmentation
+
+
+![Risk Segmentation Dashboard](screenshots/risk_segmentation.png)
+
+---
+
+
 ## Project Overview
 
 This project is an interactive Power BI dashboard designed to analyze customer delinquency trends, credit risk segmentation, loan exposure, and regional risk distribution for a fintech collections and risk management use case.
@@ -102,19 +118,6 @@ This dashboard enables:
 
 ---
 
-# Screenshots
-
-## Executive Risk Overview
-
-
-![Executive Dashboard](screenshots/executive_overview.png)
-
-## Customer Risk Segmentation
-
-
-![Risk Segmentation Dashboard](screenshots/risk_segmentation.png)
-
----
 
 # Future Improvements
 
